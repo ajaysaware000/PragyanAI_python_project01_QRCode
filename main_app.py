@@ -3,8 +3,6 @@ import qrcode
 import streamlit as st
 import zxingcpp
 from PIL import Image
-
-
 # ============================================================
 # PAGE CONFIGURATION
 # ============================================================
