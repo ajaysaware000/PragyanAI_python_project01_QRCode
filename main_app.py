@@ -250,9 +250,6 @@ uploaded_file = st.file_uploader(
         "jpeg"
     ]
 )
-
-Pragyan AI and DS School
-15:40
 # ============================================================
 # DISPLAY UPLOADED IMAGE
 # ============================================================
